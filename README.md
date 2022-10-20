@@ -10,3 +10,6 @@ Have collection of Generative Models:
   a. DCGAN
   b. WGAN
   c. Conditional GANs
+
+3. Summary of research experiments on:
+ a. WGAN discriminator training
